@@ -35,7 +35,7 @@ Tapping on a link will take you to relevant materials.
             - [x] [`Retain cycles`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Retain_cycles/RESOURCES.md)
             - [ ] [Garbage collection](Resources/iOS_Developer/Practical_knowledge/Memory_management/Garbage_collection/RESOURCES.md)
             - [x] [`Memory leaks`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Memory_leaks/RESOURCES.md)
-            - [ ] [Shallow and deep copying](Resources/iOS_Developer/Practical_knowledge/Memory_management/Shallow_and_deep_copying/RESOURCES.md)
+            - [x] [Shallow and deep copying](Resources/iOS_Developer/Practical_knowledge/Memory_management/Shallow_and_deep_copying/RESOURCES.md)
             - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] [`Multithreading and concurency`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/RESOURCES.md)
             - [ ] [POSIX and NSThreads](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/POSIX_and_NSThreads/RESOURCES.md)
